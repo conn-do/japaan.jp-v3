@@ -2,7 +2,19 @@
     font-family: 'Noto Sans JP', sans-serif;
     color: #444;
 }
-.accent-color {
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: inherit;
+    text-shadow: 0 3px 5px #d4d4d4;
+}
+a:hover {
+    text-shadow: 0 1px 2px #a7a7a7;
+}
+
+.accent-color,
+.accent-color * {
     color: #FD9291;
 }
 
