@@ -20,6 +20,7 @@ a:hover {
 
 .header-wrap,
 .footer-wrap {
+    padding: 7px 15px;
     background: #FFEAB0;
 }
 
